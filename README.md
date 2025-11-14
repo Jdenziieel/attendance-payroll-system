@@ -126,7 +126,7 @@ Originally developed with:
 - Krisma Aliyah Francisco
 - Jherome Christopher Lopez
   
-### Specific Contribution
+## Specific Contribution
 
 # Project Leadership & Client Management
 - Led end-to-end project execution from initial client consultation to final delivery and presentation
