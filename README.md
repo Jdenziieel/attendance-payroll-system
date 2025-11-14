@@ -92,25 +92,26 @@ A full-stack web application with admin and employee modules featuring facial re
 
 
 ## ▶️ How to Run Locally
-  Backend Setup
-    1. Navigate to backend: cd backend
-    2. nstall dependencies: npm install
-    3. Configure .env file (see required variables below)
-    4. Start server: npm start
-  Frontend Setup
-    1. Navigate to frontend: cd frontend
-    2. Install dependencies: npm install
-    3. Start application: npm start
+Backend Setup
+1. Navigate to backend: cd backend
+2. Install dependencies: npm install
+3. Configure .env file (see required variables below)
+4. Start server: npm start
 
-Required .env Variables (backend folder)
-  MONGO_URI=your_mongodb_connection_string
-  EMAIL_USER=your_gmail_address
-  EMAIL_APP_PASSWORD=your_gmail_app_password
-  CLIENT_ID=your_google_oauth_client_id
-  CLIENT_SECRET=your_google_oauth_client_secret
-  REFRESH_TOKEN=your_google_oauth_refresh_token
-  JWT_SECRET=your_jwt_secret_key
-  PORT=5000
+Frontend Setup
+1. Navigate to frontend: cd frontend
+2. Install dependencies: npm install
+3. Start application: npm start
+
+# Required .env Variables (backend folder)
+- MONGO_URI=your_mongodb_connection_string
+- EMAIL_USER=your_gmail_address
+- EMAIL_APP_PASSWORD=your_gmail_app_password
+- CLIENT_ID=your_google_oauth_client_id
+- CLIENT_SECRET=your_google_oauth_client_secret
+- REFRESH_TOKEN=your_google_oauth_refresh_token
+- JWT_SECRET=your_jwt_secret_key
+- PORT=5000
 
 
 
@@ -131,7 +132,7 @@ Originally developed with:
 - Led end-to-end project execution from initial client consultation to final delivery and presentation
 - Conducted comprehensive requirement gathering sessions to understand client workflows, pain points, and process improvements
 - Balanced stakeholder expectations with technical feasibility while considering team constraints and project timeline
-- 
+  
 # System Design & Architecture
 - Help designed the overall system architecture and core business logic for the attendance and payroll management system
 - Evaluated and validated technical approaches proposed by development team members
