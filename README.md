@@ -88,6 +88,10 @@ A full-stack web application with admin and employee modules featuring facial re
 - Express
 - React
 - Next.JS
+- TailwindCSS
+- React Webcam
+- Face-api.js
+- jsPDF & jsPDF-AutoTable
 
 
 
