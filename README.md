@@ -87,7 +87,7 @@ A full-stack web application with admin and employee modules featuring facial re
 - MongoDB
 - Express
 - React
-- Next.JS
+- Node.js
 - TailwindCSS
 - React Webcam
 - Face-api.js
